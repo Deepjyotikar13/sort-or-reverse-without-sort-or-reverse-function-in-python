@@ -1,3 +1,5 @@
+#will sort the list
+#Thinku for visiting deepjyoti karmakar
 lis=[67,90,23,99,45,89]
 manum=max(lis)#find max of list
 minum=min(lis)#find min of lis
